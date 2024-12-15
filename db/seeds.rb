@@ -8,8 +8,8 @@
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
 
-user = User.where(email: "ced@mail.com").first_or_initialize
-user.update!(
-  password: "password",
-  password_confirmation: "password"
-)
+# user = User.where(email: "ced@mail.com").first_or_initialize
+# user.update!(
+#   password: "password",
+#   password_confirmation: "password"
+# )
