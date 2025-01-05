@@ -57,6 +57,10 @@ group :test do
 end
 
 gem "devise", "~> 4.9"
+gem "stringio", "3.1.2"
+
 
 
 gem "tailwindcss-rails", "~> 3.0"
+gem "aws-sdk-s3", require: false
+
