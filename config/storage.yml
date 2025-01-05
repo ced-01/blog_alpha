@@ -14,8 +14,8 @@ scaleway:
   region: fr-par
   bucket: blog-bucket
 # Pour les paramétres ci-dessous aucun impact - voir aprés maitrise IAM & Policy => scaleway 
-# endpoint: https://s3.fr-par.scw.cloud
-# public: true
+  endpoint: https://s3.fr-par.scw.cloud
+  public: true
 
 # Remember not to checkin your GCS keyfile to a repository
 # google:
