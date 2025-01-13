@@ -61,6 +61,6 @@ gem "stringio", "3.1.2"
 
 
 
-gem "tailwindcss-rails", "~> 3.0"
+gem "tailwindcss-rails", "~> 3.2"
 gem "aws-sdk-s3", require: false
 
